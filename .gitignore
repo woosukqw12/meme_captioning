@@ -1,0 +1,7 @@
+checkpoints*/
+data/
+Images/
+weights/
+wandb/
+transformers*/
+__pycache__/
